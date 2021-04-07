@@ -60,4 +60,4 @@ async def on_message(message):
             await channel.send("This usually works....")"""
 
 
-client.run("NzMzNTU5NzE0ODE3NzY5NTMy.XxHVpg.vh5P4gYShV6hk8pQri_aZ-xrSWQ")
+client.run("")
